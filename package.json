@@ -1,0 +1,20 @@
+{
+  "name": "tp-01-dai",
+  "version": "1.0.0",
+  "description": "primer trabajo node",
+  "main": "index.js",
+  "scripts": {
+      "ej01": "node ej01.js",
+      "ej02": "node ej02.js",
+      "ej03": "node ej03.js",
+      "ej04": "node ej04.js",
+      "ej05": "node ej05.js",
+      "ej06": "node ej06.js",
+      "ej07": "node ej07.js",
+      "ej08": "node ej08.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+  "author": "Felipe Roballo, Tomás Torchinsky",
+  "type": "module",
+  "license": "ISC"
+}
